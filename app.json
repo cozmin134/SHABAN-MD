@@ -1,7 +1,7 @@
 {
   "name": "SHABAN-MD",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
+  "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
   "keywords": ["SHABAN-MD"],
   "success_url": "/",
 
@@ -22,7 +22,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://i.ibb.co/j9G5tmNM/shaban-md.jpg"
+      "value": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg"
     }, 
       
     "PREFIX": {
